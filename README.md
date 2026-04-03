@@ -1,7 +1,7 @@
 ## Hey there
 I'm an AI/ML research TPM by day. Past lives include esports team manager and indie game developer, and venture capital investor. Current life is mostly side projects and hobbies that generate zero revenue. LOL
 
-**Full disclosure:** I don't really code. But thanks to LLMs, I can finally build the things I've always wanted to make — and that's kind of the whole point, isn't it?
+**Full disclosure:** I don't usually code. But thanks to LLMs, I can finally build the things I've always wanted to make — and that's kind of the whole point, isn't it?
 
 ## 🔒 A Note on Commit History
 
