@@ -1,7 +1,7 @@
 ## Hey there
 I'm an AI/ML research TPM by day. Past lives include esports team manager and indie game developer, and venture capital investor. Current life is mostly side projects and hobbies that generate zero revenue. LOL
 
-**Full disclosure:** I'm not a developer — before 2025, my ceiling was wiring together open-source components, writing shell scripts, and arguing with config files until they surrendered. LLMs filled in the rest and unlocked everything below. BIGBIG appreciation！ (Yes, they might eventually replace us all — but let me love them while I can~)
+**Full disclosure:** I'm not a developer — before 2025, my ceiling was wiring together open-source components, writing shell scripts, and arguing with config files until they surrendered. Agentic coding filled in the rest and unlocked everything below. BIGBIG appreciation！ (Yes, they might eventually replace us all — but let me love them while I can~)
 
 ## 🔒 A Note on Commit History
 
