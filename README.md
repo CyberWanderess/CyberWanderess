@@ -7,7 +7,7 @@ I anonymize personal information (name, email) in my commits as a privacy practi
 As a result, my contribution graph may not fully reflect my activity. 
 Feel free to explore my repos directly for code samples and project documentation.
 
-🛠 JobHQ — A full-stack job search platform (Next.js + SQLite) I built because spreadsheets are where dreams go to die. Features IMAP integration, Chrome extension, and more yak-shaving than I'd like to admit.
+🛠 FirstIn — A full-stack job search platform (Next.js + SQLite) I built because spreadsheets are where dreams go to die. Features IMAP integration, Chrome extension, and more yak-shaving than I'd like to admit.
 
 🎬 "Mis"understand Large Language Models — An AI education series on Bilibili where I explain AI concepts with stories, way too many Three.js animations and React demos.
 
