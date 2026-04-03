@@ -11,6 +11,8 @@ Feel free to explore my repos directly for code samples and project documentatio
 
 🎬 "Mis"understand Large Language Models — An AI education series on Bilibili where I explain AI concepts with stories, way too many Three.js animations and React demos.
 
+🧶 AriadKnot — A personal novel archival & semantic search system. Processes 10K+ raw text files through LLM-powered metadata extraction (Qwen2.5 via vLLM), builds a three-layer retrieval index (tag/summary → chapter-level plot points → full-text chunk vectors) using bge-m3 + ChromaDB, all served through a Streamlit UI. Think "find that one book where that thing happened" — but it actually works. Not publicly hosted due to content sensitivity; DM me if you're curious.
+
 ## Outside of code
 🍶 Sake enthusiast (junmai daiginjo supremacy)  
 ☕ Light roast pour-over devotee (if your coffee tastes like chocolate, it's burnt)  
