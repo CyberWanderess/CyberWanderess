@@ -1,5 +1,5 @@
 ## Hey there
-I manage AI/ML research programs by day. Past lives include esports team manager and indie game developer. Current life is mostly side projects and hobbies that generate zero revenue. LOL
+I'm an AI/ML research TPM by day. Past lives include esports team manager and indie game developer, and venture capital investor. Current life is mostly side projects and hobbies that generate zero revenue. LOL
 
 ## 🔒 A Note on Commit History
 
