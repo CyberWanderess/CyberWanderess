@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🔒 A Note on Commit History
+
+I anonymize personal information (name, email) in my commits as a privacy practice. 
+As a result, my contribution graph may not fully reflect my activity. 
+Feel free to explore my repos directly for code samples and project documentation.
 
 <!--
 **CyberWanderess/CyberWanderess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
