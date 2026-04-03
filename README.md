@@ -1,5 +1,5 @@
 ## Hey there
-I manage AI/ML research programs by day. Past lives include esports team manager and indie game developer. Current life is mostly side projects and hobbies that generate zero revenue.
+I manage AI/ML research programs by day. Past lives include esports team manager and indie game developer. Current life is mostly side projects and hobbies that generate zero revenue. LOL
 
 ## 🔒 A Note on Commit History
 
@@ -11,7 +11,7 @@ Feel free to explore my repos directly for code samples and project documentatio
 
 🎬 "Mis"understand Large Language Models — An AI education series on Bilibili where I explain AI concepts with stories, way too many Three.js animations and React demos.
 
-##Outside of code
+## Outside of code
 🍶 Sake enthusiast (junmai daiginjo supremacy)  
 ☕ Light roast pour-over devotee (if your coffee tastes like chocolate, it's burnt)  
 🤖 Gundam builder (HG for relaxation, MG for ambition, PG for delusion)  
